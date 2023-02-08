@@ -3,10 +3,13 @@
 Nice to meet you. My name is Jamie and I have started my coding journey in 2020 and boy it's been joyride 😝  
 💙 I love JS/TS, design, APIs integration, a beautiful UI and stellar UX.  
 🌱 I'm currently learning to program with Node JS, tRPC and Tailwind  
-🩰 On my free time I love being behind the bar 🍸🍻  at some of NYC's most beloved music venues 
+🩰 On my free time I love being behind the bar 🍸🍻  at some of NYC's most beloved music venues     
+📫 How to reach me:  · [<img src="https://user-images.githubusercontent.com/68611902/217658474-85ea263e-b827-413b-a7ff-6ddc6fc376a8.svg"  width="17" height="17">][1]    ⟻❘❘⟼   · [<img src="https://user-images.githubusercontent.com/68611902/217658579-0a17826b-fa66-4879-8114-d4df74089c19.svg" width="17" height="17">][2]
+
+[1]: https://discordapp.com/users/836244746362945596
+[2]: https://www.linkedin.com/in/jamie-lawrence-hurt-ba3b341ab/
 
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 <!--
 **ninjameo/ninjameo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
