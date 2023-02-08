@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Nice to meet you. My name is Jamie and I have started my coding journey in 2020 and boy it's been joyride 😝  
+💙 I love JS/TS, design, APIs integration, a beautiful UI and stellar UX.  
+🌱 I'm currently learning to program with Node JS, tRPC and Tailwind  
+🩰 On my free time I love being behind the bar 🍸🍻  at some of NYC's most beloved music venues 
+
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 <!--
 **ninjameo/ninjameo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
